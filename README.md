@@ -1,6 +1,6 @@
 # 🚀 Terraform Setup Guide
 
-###Follow these steps to install and configure Terraform on your system.
+### Follow these steps to install and configure Terraform on your system.
 
 
 ## 1. 📦 Install Terraform
